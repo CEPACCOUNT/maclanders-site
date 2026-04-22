@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Update YOUR_DOMAIN_HERE below once a custom domain is connected in Vercel.
+Sitemap: https://YOUR_DOMAIN_HERE/sitemap.xml
