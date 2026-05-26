@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  After you connect a custom domain in Vercel, run a quick find-and-replace on
-  YOUR_DOMAIN_HERE below (e.g., matthewmaclanders.com or commercialrealestatenc.com).
-  Until then, search engines will still index via the *.vercel.app URL — this file
-  just tells them the single canonical page.
--->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://YOUR_DOMAIN_HERE/</loc>
+    <loc>https://www.ncindustrialbroker.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.ncindustrialbroker.com/resources</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url>
 </urlset>
